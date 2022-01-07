@@ -9,7 +9,7 @@ body {
 
 .nft-card {
     background-color: hsl(216, 50%, 16%);
-    width: 300px;
+    width: 320px;
     border-radius: 1rem;
     box-shadow: 0 10px 2px 20px #0b1729;
 }
