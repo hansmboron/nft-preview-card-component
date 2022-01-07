@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-bootstrap-mAuHq_96R)
-- Live Site URL: [Add live site URL here](https://hansmboron.github.io/nft-preview-card-component/)
+- Solution URL: [frontendmentor.io/solutions/nft-preview-card-component-using-bootstrap-mAuHq_96R](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-bootstrap-mAuHq_96R)
+- Live Site URL: [hansmboron.github.io/nft-preview-card-component](https://hansmboron.github.io/nft-preview-card-component/)
 
 ### Built with
 
@@ -41,10 +41,11 @@ Users should be able to:
 
 This challenge helped me train and improve my skills with bootstrap and css 
 
+
 ## Author
 
 - Website - [Hans M Boron](https://www.mehsys.com.br)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hansmboron)
-- GitHub - [@yourusername](https://www.github.com/hansmboron)
-- YouTube - [@yourusername](https://www.youtube.com/c/HansMBoron)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/hansmateusboron/)
+- Frontend Mentor - [@hansmboron](https://www.frontendmentor.io/profile/hansmboron)
+- GitHub - [@hansmboron](https://www.github.com/hansmboron)
+- YouTube - [@HansMBoron](https://www.youtube.com/c/HansMBoron)
+- LinkedIn - [@hansmateusboron](https://www.linkedin.com/in/hansmateusboron/)
